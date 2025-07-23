@@ -93,9 +93,9 @@ export const workData = [
 ]
 
 export const experienceData = [
-    { icon: assets.ui_icon, title: 'Data Management Intern', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.web_icon, title: 'Undergraduate Research Assisstant', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.android_icon, title: 'Game Analysis Intern', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
+    { icon: assets.ui_icon, title: 'Data Management Intern', description: '', link: 'bhavya6828.github.io/resume/' },
+    { icon: assets.web_icon, title: 'Undergraduate Research Assisstant', description: '', link: 'bhavya6828.github.io/resume/' },
+    { icon: assets.android_icon, title: 'Game Analysis Intern', description: '', link: 'bhavya6828.github.io/resume/' },
 ]
 
 export const infoList = [
