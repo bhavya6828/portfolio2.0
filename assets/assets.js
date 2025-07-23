@@ -79,16 +79,19 @@ export const workData = [
         title: 'Portfolio project',
         description: 'Web Design',
         bgImage: '/work-1.png',
+        link: 'https://github.com/bhavya6828/portfolio2.0'
     },
     {
         title: 'Chat forum',
         description: 'Web Design',
         bgImage: '/work-2.png',
+        link: 'https://github.com/bhavya6828/Chat-Forum'
     },
     {
         title: 'News app',
         description: 'Web Design',
         bgImage: '/work-3.png',
+        link: 'https://github.com/bhavya6828/News-App'
     },
 ]
 
